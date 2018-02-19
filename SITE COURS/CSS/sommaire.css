@@ -1,0 +1,28 @@
+body
+{
+	background-color: black;
+	color: #00FF00;
+}
+header
+{
+	text-align: center;
+	font-weight: bold;
+	font-size: x-large;
+}
+a
+{
+	color: #81F781;
+}
+span
+{
+	background-color: #088A08;
+}
+.italique
+{
+	font-style: italic;
+	background-color: black;
+}
+h3
+{
+	text-decoration: underline;
+}
